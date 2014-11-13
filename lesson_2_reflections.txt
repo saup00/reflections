@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+	Se crea una carpeta donde se guardaran todos los cambios que se realicen.
+	Se necesita para poder usar el control de versiones git.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	Es una parte intermedia, que nos permite tener cambios temporales, y cuando pasan
+	a ser definitivos se mueven al repositorio.
